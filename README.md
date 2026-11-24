@@ -1,4 +1,4 @@
-# Actividad: Programación Orientada a Objetos, Arreglos y Archivos de Texto
+# Programación Orientada a Objetos, Arreglos y Archivos de Texto
 
 ## 1. Integrantes
 - **Génesis Altagracia de la Cruz Perozo** | Matrícula: 26-SISN-2-051
